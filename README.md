@@ -30,21 +30,21 @@ Mục tiêu: xây dựng một cửa hàng trực tuyến với các chức năn
 ```bash
 git clone https://github.com/nguyen-tien1504/phone-store.git
 cd phone-store
-
----
-
+```
 ### 2. Cài đặt Frontend
+```bash
 cd phone.store.client
 npm i
 npm run dev
 Open [http://localhost:5173/](http://localhost:5173/)
-
----
+```
 
 ### 3. Cài đặt Backend
+```bash
 cd phone.store.server
 npm i
 npm run dev
 Open [http://localhost:3000/](http://localhost:3000/)
+```
 
 
